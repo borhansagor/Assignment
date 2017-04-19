@@ -1,7 +1,7 @@
 /*Borhan Sagor
 COSC 1336
 switch practice
-importing java util then having a counter for index and intializing its value to 0; then creating counters for each vowel along with a non vowel counter and setting 
+pseudo code:importing java util then having a counter for index and intializing its value to 0; then creating counters for each vowel along with a non vowel counter and setting 
 them to 0; then creating a while loop that doesn't end until the intindex is equal to the word length that is system input by user;finally putting a switch
 statement within the while loop that determines whether the .charAt(intindex) is a vowel or non vowel for both upper and lower cases. and incrementing intindex everytime
 finally printing out the results.*/
