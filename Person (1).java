@@ -1,6 +1,6 @@
 /*Borhan Sagor
 COSC 1336
-Creating a new class called Person, and defining methods within it by using setter and getter, finally having a setter and getter that puts the accumulative 
+Psuedo Code: Creating a new class called Person, and defining methods within it by using setter and getter, finally having a setter and getter that puts the accumulative 
 methods of individual setters and getters*/
 public class Person {
     private String strFirstName = "";
