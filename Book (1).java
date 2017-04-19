@@ -1,6 +1,6 @@
 /*Borhan Sagor
 COSC 1336
-Creating a Book class that contains instance variable as private (title,author,publisher,copyRightDate), creating setters and getter methods and finally adding 
+Pseudo code: Creating a Book class that contains instance variable as private (title,author,publisher,copyRightDate), creating setters and getter methods and finally adding 
 a toString() method that converts the coprightDate and spits out as a multilined formatted description of the book.*/
 
 public class Book{
