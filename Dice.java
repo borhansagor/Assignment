@@ -1,7 +1,7 @@
 /*borhan sagor
 COSC 1336
 for loop practice
-creating random obj to input dice values then creating a variable to store the value of boxcars or 12; putting rollnumber to 1000 then creating 
+pseudo Code: creating random obj to input dice values then creating a variable to store the value of boxcars or 12; putting rollnumber to 1000 then creating 
 a for loop that runs through 1000 times and each time it runs it generates a pair of random dice and adds up then increments count only if it adds to 12;*/
 import java.util.*;
 public class Dice{
