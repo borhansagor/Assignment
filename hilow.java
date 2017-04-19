@@ -1,7 +1,7 @@
 /*Borhan Sagor
 COSC 1336
 hi-low game
-separating methods that do not need to be repeated outside of the loop, making a random generator to generate number between 1-100; which will be 
+Pseudo code: separating methods that do not need to be repeated outside of the loop, making a random generator to generate number between 1-100; which will be 
 the winning number, then making a boolean variable that acts as starting and ending of the loops. finally implementing userinput whether they want to
 continue or end the game.*/
 import java.util.*;
